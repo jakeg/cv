@@ -1,2 +1,2 @@
 # cv
-My CV
+You can [download my CV](./cv.pdf).
